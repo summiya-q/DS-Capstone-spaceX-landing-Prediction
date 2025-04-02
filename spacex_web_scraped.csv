@@ -1,0 +1,309 @@
+Flight No.,Launchsite,Payload,Payload mass,Orbit,Customer,Launchoutcome,FH 5,FH 6,FH 7,FH 8,FH 9,Launch site,Launch outcome,Version Booster,Booster landing
+1,,Cape Canaveral,6,,,,,,,,,,"Various
+","Success
+",Success (
+2,,,,,,,,,,,,,,,
+3,,Cape Canaveral,16,,,,,,,,,,OneWeb,"Success
+",Success (
+4,,,,,,,,,,,,,,,
+5,,Kennedy,67,,,,,,,,,Falcon Heavy,USSF,"Success
+","No attempt
+"
+6,,,,,,,,,,,,LZ‑2,,,
+7,,,,,,,,,,,,LZ‑1,,,
+8,,,,,,,,,,,,,,,
+9,,Cape Canaveral,343,,,,,,,,,,USSF,"Success
+",Success (
+10,,,,,,,,,,,,,,,
+11,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+12,,,,,,,,,,,,,,,
+13,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+14,,,,,,,,,,,,,,,
+15,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+16,,,,,,,,,,,,D-Orbit,,,
+17,,,,,,,,,,,,,,,
+18,,Kennedy,5,,,,,,,,,,SpaceX,"Success
+",Success (
+19,,,,,,,,,,,,,,,
+20,,Cape Canaveral,0,,,,,,,,,,Hispasat,"Success
+",Success (
+21,,,,,,,,,,,,,,,
+22,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+23,,,,,,,,,,,,,,,
+24,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+25,,,,,,,,,,,,,,,
+26,,Cape Canaveral,6,,,,,,,,,,Inmarsat,"Success
+",Success (
+27,,,,,,,,,,,,,,,
+28,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+29,,,,,,,,,,,,,,,
+30,,Kennedy,6,,,,,,,,,,NASA,"Success
+",Success (
+31,,,,,,,,,,,,,,,
+32,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+33,,,,,,,,,,,,,,,
+34,,Cape Canaveral,17,,,,,,,,,,OneWeb,"Success
+",Success (
+35,,,,,,,,,,,,,,,
+36,,Kennedy,27,,,,,,,,,,NASA,"Success
+",Success (
+37,,,,,,,,,,,,,,,
+38,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+39,,,,,,,,,,,,,,,
+40,,Cape Canaveral,18,,,,,,,,,,SES,"Success
+",Success (
+41,,,,,,,,,,,,,,,
+42,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+43,,,,,,,,,,,,,,,
+44,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+45,,,,,,,,,,,,,,,
+46,,Vandenberg,0,,,,,,,,,,SDA,"Success
+",Success (
+47,,,,,,,,,,,,,,,
+48,,Cape Canaveral,40,,,,,,,,,,Intelsat,"Success
+",Success (
+49,,,,,,,,,,,,,,,
+50,,Vandenberg,7,,,,,,,,,,"Various
+","Success
+",Success (
+51,,,,,,,,,,,,,,,
+52,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+53,,,,,,,,,,,,,,,
+54,,Vandenberg,3,,,,,,,,,,SpaceX,"Success
+",Success (
+55,,,,,,,,,,,,,,,
+56,,Cape Canaveral,3,,,,,,,,,,SES,"Success
+",Success (
+57,,,,,,,,,,,,,,,
+58,,Kennedy,3,,,,,,,,,Falcon Heavy,ViaSat,"Success
+","No attempt
+"
+59,,,0,,,,,,,,,Aurora 4A (Arcturus),,,
+60,,,0,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,
+62,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+63,,,,,,,,,,,,,,,
+64,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+65,,,,,,,,,,,,,,,
+66,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+67,,,,,,,,,,,,,,,
+68,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+69,,,,,,,,,,,,,,,
+70,,Vandenberg,111,,,,,,,,,,Iridium,"Success
+",Success (
+71,,,,,,,,,,,,,,,
+72,,Kennedy,2,,,,,,,,,,Axiom Space,"Success
+",Success (
+73,,,,,,,,,,,,,,,
+74,,Cape Canaveral,7,,,,,,,,,,Arabsat,"Success
+",Success (
+75,,,,,,,,,,,,,,,
+76,,Vandenberg,2,,,,,,,,,,SpaceX,"Success
+",Success (
+77,,,,,,,,,,,,,,,
+78,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+79,,,,,,,,,,,,,,,
+80,,Kennedy,28,,,,,,,,,,NASA,"Success
+",Success (
+81,,,,,,,,,,,,,,,
+82,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+83,,,,,,,,,,,,,,,
+84,,Vandenberg,8,,,,,,,,,,"Various
+","Success
+",Success (
+85,,,,,,,,,,,,,,,
+86,,Cape Canaveral,128,,,,,,,,,,PT Pasifik Satelit Nusantara,"Success
+",Success (
+87,,,,,,,,,,,,,,,
+88,,Vandenberg,5,,,,,,,,,,SpaceX,"Success
+",Success (
+89,,,,,,,,,,,,,,,
+90,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+91,,,,,,,,,,,,,,,
+92,,Cape Canaveral,0,,,,,,,,,,ESA,"Success
+",Success (
+93,,,,,,,,,,,,,,,
+94,,Vandenberg,5,,,,,,,,,,SpaceX,"Success
+",Success (
+95,,,,,,,,,,,,,,,
+96,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+97,,,,,,,,,,,,,,,
+98,,Cape Canaveral,5,,,,,,,,,,SpaceX,"Success
+",Success (
+99,,,,,,,,,,,,,,,
+100,,Vandenberg,6,,,,,,,,,,SpaceX,"Success
+",Success (
+101,,,,,,,,,,,,,,,
+102,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+103,,,,,,,,,,,,,,,
+104,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+105,,,,,,,,,,,,,,,
+106,,Kennedy,3,,,,,,,,,Falcon Heavy,EchoStar,"Success
+","No attempt
+"
+107,,,,,,,,,,,,LZ‑1,,,
+108,,,,,,,,,,,,LZ‑2,,,
+109,,,,,,,,,,,,,,,
+110,,Cape Canaveral,37,,,,,,,,,,Intelsat,"Success
+",Success (
+111,,,,,,,,,,,,,,,
+112,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+113,,,,,,,,,,,,,,,
+114,,Vandenberg,6,,,,,,,,,,SpaceX,"Success
+",Success (
+115,,,,,,,,,,,,,,,
+116,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+117,,,,,,,,,,,,,,,
+118,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+119,,,,,,,,,,,,,,,
+120,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+121,,,,,,,,,,,,,,,
+122,,Kennedy,7,,,,,,,,,,NASA,"Success
+",Success (
+123,,,,,,,,,,,,,,,
+124,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+125,,,,,,,,,,,,,,,
+126,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+127,,,,,,,,,,,,,,,
+128,,Vandenberg,0,,,,,,,,,,SDA,"Success
+",Success (
+129,,,,,,,,,,,,,,,
+130,,Kennedy,6,,,,,,,,,,SpaceX,"Success
+",Success (
+131,,,,,,,,,,,,,,,
+132,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+133,,,,,,,,,,,,,,,
+134,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+135,,,,,,,,,,,,,,,
+136,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+137,,,,,,,,,,,,,,,
+138,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+139,,,,,,,,,,,,,,,
+140,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+141,,,,,,,,,,,,,,,
+142,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+143,,,,,,,,,,,,,,,
+144,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+145,,,,,,,,,,,,,,,
+146,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+147,,,,,,,,,,,,,,,
+148,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+149,,,,,,,,,,,,,,,
+150,,Kennedy,176,,,,,,,,,Falcon Heavy,NASA,"Success
+","No attempt
+"
+151,,,,,,,,,,,,LZ‑1,,,
+152,,,,,,,,,,,,LZ‑2,,,
+153,,,,,,,,,,,,,,,
+154,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+155,,,,,,,,,,,,,,,
+156,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+157,,,,,,,,,,,,,,,
+158,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+159,,,,,,,,,,,,,,,
+160,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+161,,,,,,,,,,,,,,,
+162,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+163,,,,,,,,,,,,,,,
+164,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+165,,,,,,,,,,,,,,,
+166,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+167,,,,,,,,,,,,,,,
+168,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+169,,,,,,,,,,,,,,,
+170,,Kennedy,29,,,,,,,,,,NASA,"Success
+",Success (
+171,,,,,,,,,,,,,,,
+172,,Vandenberg,9,,,,,,,,,,"Various
+","Success
+",Success (
+173,,,,,,,,,,,,,,,
+174,,Cape Canaveral,3,,,,,,,,,,SES,"Success
+",Success (
+175,,,,,,,,,,,,,,,
+176,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+177,,,,,,,,,,,,,,,
+178,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+179,,,,,,,,,,,,,,,
+180,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+181,,,,,,,,,,,,,,,
+182,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+183,,,,,,,,,,,,,,,
+184,,Vandenberg,425,,,,,,,,,,Republic of Korea Armed Forces,"Success
+",Success (
+185,,,,,,,,,,,,,,,
+186,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+187,,,,,,,,,,,,,,,
+188,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+189,,,,,,,,,,,,,,,
+190,,Vandenberg,7,,,,,,,,,,SpaceX,"Success
+",Success (
+191,,,,,,,,,,,,,,,
+192,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+193,,,,,,,,,,,,,,,
+194,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Partial failure (
+195,,,,,,,,,,,,,,,
+196,,Vandenberg,2,,,,,,,,,,German Intelligence Service,"Success
+",Success (
+197,,,,,,,,,,,,,,,
+198,,Kennedy,52,,,,,,,,,Falcon Heavy,Department of the,"Success
+","No attempt
+"
+199,,,,,,,,,,,,LZ‑1,,,
+200,,,,,,,,,,,,LZ‑2,,,
+201,,,,,,,,,,,,,,,
+202,,Cape Canaveral,6,,,,,,,,,,SpaceX,"Success
+",Success (
+203,,,,,,,,,,,,,,,
